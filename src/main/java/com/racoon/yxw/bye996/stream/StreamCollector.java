@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
  * @Description 预定义收集器使用
  * @Version 1.0
  */
+
 public class StreamCollector {
 
     /**
